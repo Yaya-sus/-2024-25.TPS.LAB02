@@ -16,3 +16,4 @@
 - holborn
 - chancery lane
 - st paul's
+- bethnal green
