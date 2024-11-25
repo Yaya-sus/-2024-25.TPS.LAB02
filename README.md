@@ -14,3 +14,4 @@
 - baker street
 - great portland street
 - euston square
+- farringdon
