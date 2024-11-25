@@ -5,3 +5,5 @@
 - north acton
 - east acton
 - white city
+## hammersmith & city
+- latimer road
