@@ -12,3 +12,4 @@
 - lancaster gate
 - marble arch
 - bond street
+- oxford circus
