@@ -14,3 +14,4 @@
 - bond street
 - oxford circus
 - holborn
+- chancery lane
