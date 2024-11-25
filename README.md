@@ -11,3 +11,4 @@
 - queensway
 - lancaster gate
 - marble arch
+- bond street
