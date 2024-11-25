@@ -9,3 +9,4 @@
 - latimer road
 - ladbroke grove
 - westbourne park
+- royal oak
