@@ -15,3 +15,4 @@
 - great portland street
 - euston square
 - farringdon
+- barbican
