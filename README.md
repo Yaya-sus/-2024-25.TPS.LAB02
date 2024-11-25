@@ -9,3 +9,4 @@
 - holland park
 - notting hill gate
 - queensway
+- lancaster gate
